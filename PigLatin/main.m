@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "InputCollector.h"
+
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
@@ -15,3 +17,5 @@ int main(int argc, const char * argv[]) {
     }
     return 0;
 }
+
+
